@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: A Practical Guide to Algorithms with JavaScript
 ---
 ## A New Post
 

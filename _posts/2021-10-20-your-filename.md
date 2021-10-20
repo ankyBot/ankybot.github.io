@@ -2,9 +2,8 @@
 layout: post
 title: A Practical Guide to Algorithms with JavaScript
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+In this post we will discuss about javascript algorithm 
 
 
 # [A Practical Guide to Algorithms with JavaScript](https://slides.com/bgando/intro-to-algorithms)

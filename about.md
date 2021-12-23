@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am ankit, a explorer of the inside world of human brain and technology... and here on my blog you can read all my experience.
+I am ankit, a web developer.
 
 ### More Information
 
-if you wants to know more about me you should contiue reading...<br>
+I am freelance technical content writer, and i love to make web apps.<br>
 
 
 ### Contact me

@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am ankit, a web developer.
+I am a freelance technical content writer, and a web developer.
 
-### More Information
+### More Information about
 
-I am a freelance technical content writer, and i love to make web apps.<br>
+I’m Ankit shrivastava. I love to make web apps, do research, and I am interested in designing.  Combining three interests, I try to write beautiful articles on this blog.<br>
 
 
-### Contact me
+#### Contact me
 
-[iqoptionankit@gmail.com](mailto:iqoptionankit@gmail.com)
+Gmail - [iqoptionankit@gmail.com](mailto:iqoptionankit@gmail.com)

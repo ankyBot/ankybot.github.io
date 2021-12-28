@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I am a freelance technical content writer, and a web developer.
+I am a web developer and technical content writer.  Here on my blog, I write about the technology and tools which I found interesting.
 
-### More Information about
 
-I’m Ankit shrivastava. I love to make web apps, doing hardcore research, and I also like designing too much.  Combining these three interests, I try to write beautiful articles on this blog.<br>
+**Subscribe to [My newsletter](https://techabc.substack.com)** 
 
 
 #### Contact me

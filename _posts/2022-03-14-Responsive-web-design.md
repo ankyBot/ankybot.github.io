@@ -1,9 +1,7 @@
 ---
-published: false
----
----
 layout: post
 title: Responsive web design
+published: true
 ---
 
 # Basic HTML and HTML5

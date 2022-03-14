@@ -3,6 +3,7 @@ layout: post
 title: Responsive web design
 published: true
 ---
+Fundamental of responsive web design...
 
 # Basic HTML and HTML5
 

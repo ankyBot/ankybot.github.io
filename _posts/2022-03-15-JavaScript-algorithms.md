@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript data structure and algorithms  
+title: Javascript data structure and algorithms
 published: true
 ---
 

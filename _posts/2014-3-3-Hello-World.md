@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 👋,Hello world javascript
+title: 👋,Hello world 
 published: true
 ---
 
 Hello world...
-This is first post on my blog, i will be start writting my experience and feelings here from tomorrow (28/11/2021).
+This is the first ever post on my blog, here i will writting articles on my favorite topics from tomorrow (28/11/2021).
 
 Thanks
 

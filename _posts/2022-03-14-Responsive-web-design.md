@@ -3,7 +3,9 @@ layout: post
 title: Responsive web design
 published: true
 ---
-In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+Do you know how your favorite wesite run smoothly on all the device you use, they follow the principle on responsive web design which make sure that a wesite will run smoothly on any device. 
+
+In this Responsive Web Design article, you'll learn how to design the responsive wesites which are made by using HTML and CSS.
 
 First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a web form.
 

@@ -2,14 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-I am a web developer and technical content writer.  Here on my blog, I write about the technology and tools which I found interesting.
-
-
-**Subscribe to [My newsletter](https://techabc.substack.com)** 
-
-
-#### Contact me
-
-Gmail - [iqoptionankit@gmail.com](mailto:iqoptionankit@gmail.com)
+I am a freelance web developer and technical content writer. I love to learn and explore new things, here on by blog i write about the things which i find interesting...

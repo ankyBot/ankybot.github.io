@@ -4,14 +4,30 @@ title: Projects
 permalink: /projects/
 published: true
 ---
-* My project - [Source code](https://github.com/ankyBot/todo-s-app) [See live](https://ankybot.github.io/todo-s-app/) 
+### Project's using HTML, CSS, bootstrap and vanilla javascript:
 
-* My project - 
-<a href="https://github.com/ankyBot/todo-s-app" target="_blank">Source code</a> 
+* **Todo's manager web app:** I made the user interface using bootstrap and added the functionality using vanilla javascript. I make use of local storage to keep track of to do list.
+
+<a href="https://github.com/ankyBot/todo-s-app" target="_blank">Source code</a>/  
 <a href="https://ankybot.github.io/todo-s-app/" target="_blank">See live</a> 
-
 <hr>
 
-* My project - 3
-* My project - 4
-* My project - 5
+* **Pomodoro timer:** I made the user interface using pure HTML, CSS, and added the functionality using vanilla javascript.
+
+<a href="https://github.com/ankyBot/pomodoro-timer" target="_blank">Source code</a>/  
+<a href="https://ankybot.github.io/pomodoro-timer/" target="_blank">See live</a> 
+<hr>
+
+
+<hr>
+### Project's using react.
+
+* **Weather app:** I made the user interface and added the functionality using react, which is a famous javascript library.
+
+<a href="https://github.com/ankyBot/reactweatherapp" target="_blank">Source code</a>/  
+<a href="https://ankybot.github.io/reactweatherapp/" target="_blank">See live</a> 
+<hr> 
+
+<hr>
+### Others
+

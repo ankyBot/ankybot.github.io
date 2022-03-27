@@ -2,9 +2,12 @@
 layout: page
 title: Projects
 permalink: /projects/
+published: true
 ---
 
-* My project - [Source code]() [See live]()
+![Todo's manager pic]({{site.baseurl}}/https://ankybot.github.io/portfolio/images/todo's.svg)
+* My project - [Source code](https://github.com/ankyBot/todo-s-app) [See live](https://ankybot.github.io/todo-s-app/) 
+
 * My project - 2
 * My project - 3
 * My project - 4

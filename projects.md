@@ -4,6 +4,7 @@ title: Works
 permalink: /works/
 published: true
 ---
+
 ### ⭐ **Project's using HTML, CSS, bootstrap and vanilla javascript:**
 
 * **Todo's manager web app:** I made the user interface using bootstrap and added the functionality using vanilla javascript. I make use of local storage to keep track of to do list.<br>

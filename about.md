@@ -4,16 +4,15 @@ title: About
 permalink: /about/
 published: true
 ---
+### Introduction
 
-### Personal details
+Hello there, I am Ankit Shrivastava. I am a curious learner of electric and digital electronics from the very beginning which leads to my interest in resistors, transistors, microcontrollers, and **CPUs**. To solidify my knowledge and make a career around my interest I have don't a B.Tech in information and technology(2017-2021). Right now I am learning and sharing my knowledge as a freelance technical content writer and web developer.
 
-Hello there, I am ankit shrivatava. I am a curious learner of the electric and digital electronics from the very beginning which leads to my interest in resistor, transistors, microcontrollers and **CPU** to solidify my knowledge and make career I have don't B.Tech in information and technology(2017-2021). Right now i am learning and sharing my knowledge as freelance technical content writer and web developer.
-
-Here on by blog you will find articles about the technology and tools which i found interesting... if you like my articles and wants to be in touch with me, please connect over linkedin or twitter.
+Here on my blog, you will find articles about the technology and tools which I found interesting... if you like my articles and want to be in touch with me, please connect over [LinkedIn](https://www.linkedin.com/in/ankybot/) or [Twitter](https://www.twitter.com/ankybot).
 
 ---
 
 ### Professional details
 
-**My skills:** Frontend web development, technical content writting.
+**My skills:** Frontend web development, technical content writing.
 **My education:** B.Tech(information technology).

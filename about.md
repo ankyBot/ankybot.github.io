@@ -15,5 +15,6 @@ Here on my blog, you will find articles about the technology and tools which I f
 
 ### Professional details
 
-**My skills:** Frontend web development, technical content writing.
+**My skills:** Frontend web development, technical content writing.<br>
+
 **My education:** B.Tech(information technology).
